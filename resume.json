@@ -3,10 +3,10 @@
   "basics": {
     "name": "Lucas de Assis Rosa",
     "label": "Software Engineer",
-    "image": "https://ca.slack-edge.com/T033NA4C3-UHBRPGC7Q-25738d2b3f0d-512",
+    "picture": "https://ca.slack-edge.com/T033NA4C3-UHBRPGC7Q-25738d2b3f0d-512",
     "email": "lucasassis413@gmail.com",
     "phone": "+55 (62) 98225-2109",
-    "summary": "Lucas (he/him/his) remotely from Brazil. Software Engineer with 5+ years of experience, focused on the Frontend. Developing high quality UIs with JQuery, AngularJS, Angular and React in fast-paced environments. My dream is to impact millions!",
+    "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 5+ years of experience, specially in frontend development with different tools and frameworks like JQuery, Angular and React. I'm very good at developing high quality solutions in fast-paced environments. My dream is to impact millions!",
     "location": {
       "address": "Avenida Juiz de Fora, 660",
       "postalCode": "74703020",
@@ -40,20 +40,21 @@
   "work": [
     {
       "company": "Telnyx",
-      "location": "Goiânia, BR",
+      "location": "Remote",
       "description": "Modern US Licensed Carrier Company",
       "position": "Frontend Software Engineer",
       "url": "https://telnyx.com/",
-      "startDate": "2019-04-08",
-      "summary": "Software Engineer focused on Frontend. Contributing to a variety of projects using Javascript, React, Redux, Angular, and CSS/SCSS, creating custom visual components and solutions for a range of projects including public-facing and internal tools. Actively contributing to evolve and maintain UI design systems, creating an adaptive and scalable stack.",
+      "startDate": "2019-04",
+      "summary": "Software Engineer focused on Frontend. Contributing and Maintaining to a variety of projects using Javascript, React, Redux, Angular, and CSS/SCSS, with custom components, patterns, and styles.",
       "highlights": [
-        "Ahead of a major revamp, developing an auto-generated mechanism for API Examples",
+        "Ahead of a major revamp, developing a multi-language code examples generation mechanism based on OpenAPI Specs",
         "Improved bug tracking and error reporting using bugsnag and slack with prometheus alerts for the Public API documentation website",
-        "Developed and released the first version of the Telnyx Node SDK with high test coverage",
-        "Improved deployment pipeline for frontend projects through docker multi-step layer and monorepo deps caching",
-        "Worked telnyx.com website server rewrite for performance, improving image optimization, integrating with the frontend monorepo shared libraries and improving deploy pipeline caching",
-        "Worked on migrating from AngularJS and Angular to React in the Mission Control Portal project, maintaining feature parity, unit testing coverage and adding e2e specs",
-        "Onboarded several new frontend developers from different tech and culture backgrounds into the company and frontend projects. Updated documentation and improved the onboarding process"
+        "Developed and released the first open-source version of the Telnyx Node SDK with high test coverage",
+        "Improved and migrated the deployment pipeline for frontend projects through docker multi-step layer and monorepo deps caching",
+        "Rewrote telnyx.com website server for performance, improving image optimization, integrating with the frontend monorepo shared libraries and improving deploy pipeline caching",
+        "Migrated from AngularJS and Angular to React, reorganing data fetching, parsing and usage, improving UI/UX, maintaining feature parity, unit testing coverage and adding e2e specs",
+        "Concepted, presented and developed a Canary Release process for the main frontend project",
+        "Onboarded several new frontend developers from different tech and culture backgrounds into the company and frontend projects. Updated documentation, defined styleguide and improved the onboarding process"
       ]
     },
     {
@@ -62,11 +63,11 @@
       "description": "Software Development Boutique",
       "position": "Frontend Software Engineer",
       "url": "https://www.codeminer42.com/",
-      "startDate": "2018-02-01",
-      "endDate": "2019-04-01",
-      "summary": "Software Developer Consultant focused on Frontend Development. Worked with Javascript React and SCSS, along with Ruby on Rails. Contributed to Open Source Projects.",
+      "startDate": "2018-02",
+      "endDate": "2019-04",
+      "summary": "Software Developer Consultant focused on Frontend Development. Worked with Javascript React and SCSS, along with Ruby on Rails.",
       "highlights": [
-        "Contributed to Error Tools fixes and Frameworks docs",
+        "Contributed to Open Source Projects like Honeybadger, Refile and React. Applied bug fixes, added new features and new documentation pages",
         "Working on a partial-remote team basis, along with the Bio Ritmo Microgyms",
         "Created interfaces along with a high test coverage. Either using Jest or Mocha + Chai, Along with Enzyme & Sinon/React Testing Library techs were used and tailored to the project needs",
         "Developed NodeJS Restful APIs for company internal projects",
@@ -80,19 +81,16 @@
       "description": "Software Company Leader in Brazilian ERP Market",
       "position": "Software Engineer",
       "url": "https://www.codeminer42.com/",
-      "startDate": "2016-10-01",
-      "endDate": "2017-12-01",
-      "summary": "Worked on the Engineering and Framework team which focused on high quality software development and scaffolding development using the best practices for a complex large scale product.",
+      "startDate": "2016-10",
+      "endDate": "2017-12",
+      "summary": "PC Sistemas Engineering and Framework team member, focused on high quality software development and documentation for a complex large scale product.",
       "highlights": [
-        "Engineering and Framework Team Member, developing WinThor Anywhere (WTA), a large-scale microservices-oriented web platform for an ERP solution, creating reference code base",
-        "Working on a partial-remote team basis, along with the Bio Ritmo Microgyms",
-        "Developed the Java back-end platform core and Restful APIs, on the top of Apache Karaf, in a OSGi Environment",
-        "Used technologies like  Spring, Maven, JDBC, JUnit, Mockito, Shiro and Jackson",
+        "Developed and maintained WinThor Anywhere (WTA) core features, a large-scale microservices-oriented web platform for an ERP solution",
+        "Developed the Java back-end core platform and Restful APIs using techs like Spring and Maven, on the top of Apache Karaf, in a OSGi Environment",
         "Developed front-end projects in AngularJS and Angular 2+, on top of the TOTVS HTML Framework (THF), with CSS3",
         "Started a micro-services structure with a build and deploy process (gulp, bower) for each project inside the WinThor Anywhere",
-        "Conducted in-company training on Java, AngularJS and THF, Spring and OSGi features",
-        "Created WTA reference code base, technical and software product documentation",
-        "Developed features and deployed mobile Android and iOS Apps using Java and Swift"
+        "Conducted in-company training on Java, AngularJS and THF micro-frontend implementation, Spring, and OSGi features",
+        "Developed Mobile Apps features using Java for Android and Swift"
       ]
     },
     {
@@ -100,11 +98,12 @@
       "location": "Chicago, US",
       "position": "Software Security Researcher",
       "url": "https://www.iit.edu/",
-      "startDate": "2016-05-01",
-      "endDate": "2016-08-01",
+      "startDate": "2016-05",
+      "endDate": "2016-08",
       "summary": "Researched and proved a system to hijack and insert data into an iSCSI stream.",
       "highlights": [
-        "Created a Python CLI tool under the iSCSI Packet Injection Research Project - https://github.com/illinoistech-itm/pykkon"
+        "Created a Python CLI tool under the iSCSI Packet Injection Research Project",
+        "https://github.com/illinoistech-itm/pykkon"
       ]
     },
     {
@@ -112,8 +111,8 @@
       "location": "Milwaukee, US",
       "position": "Software Engineering Laboratory Intern",
       "url": "https://www.msoe.edu/",
-      "startDate": "2015-11-01",
-      "endDate": "2016-06-01",
+      "startDate": "2015-11",
+      "endDate": "2016-06",
       "summary": "Developed a Jira plugin in Javascript and in Java, based on the Atlassian Jira SDK and Jira Plugins2 API. The plugin goal was to generate Sprint velocity reports using the c3.js library."
     }
   ],
@@ -123,8 +122,8 @@
       "url": "https://www.ufg.br/",
       "area": "Software Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-03-01",
-      "endDate": "2017-12-01",
+      "startDate": "2013-03",
+      "endDate": "2017-12",
       "score": "3.7"
     },
     {
@@ -132,8 +131,8 @@
       "url": "https://www.msoe.edu/",
       "area": "Software Engineering - Mobility Program",
       "studyType": "B.S.",
-      "startDate": "2015-08-01",
-      "endDate": "2016-08-01",
+      "startDate": "2015-08",
+      "endDate": "2016-08",
       "score": "3.7",
       "courses": [
         "Developing Secure Software",
@@ -145,35 +144,17 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Frontend",
       "level": "Strong",
       "keywords": [
+        "React",
         "HTML",
         "CSS",
         "Javascript",
-        "Javascript",
-        "Caching",
-        "Profiling",
-        "Performance",
-        "Debugging",
-        "React",
-        "Angular",
-        "Redux"
-      ]
-    },
-    {
-      "name": "Testing",
-      "level": "Strong",
-      "keywords": [
-        "Frontend",
-        "Unit",
-        "E2E",
-        "Jest",
-        "Karma",
-        "RTL",
-        "Enzyme",
-        "Mocking",
-        "API"
+        "Data Handling",
+        "Functional Programming",
+        "Testing",
+        "Auth"
       ]
     }
   ],
@@ -195,23 +176,25 @@
     {
       "name": "Security",
       "keywords": [
-        "Web",
-        "Frontend",
-        "Dependencies"
+        "Vulnerabilities",
+        "Dependencies",
+        "Tools & Frameworks"
       ]
     },
     {
-      "name": "Frontend",
+      "name": "Performance",
       "keywords": [
         "Bundling",
-        "Performance",
-        "Profiling"
+        "Profiling",
+        "Data Loading",
+        "Content Selection",
+        "Parallelism"
       ]
     }
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2021-10-20T20:00:00"
   }
 }
