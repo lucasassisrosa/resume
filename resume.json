@@ -1,0 +1,217 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Lucas de Assis Rosa",
+    "label": "Software Engineer",
+    "image": "https://ca.slack-edge.com/T033NA4C3-UHBRPGC7Q-25738d2b3f0d-512",
+    "email": "lucasassis413@gmail.com",
+    "phone": "+55 (62) 98225-2109",
+    "summary": "Lucas (he/him/his) remotely from Brazil. Software Engineer with 5+ years of experience, focused on the Frontend. Developing high quality UIs with JQuery, AngularJS, Angular and React in fast-paced environments. My dream is to impact millions!",
+    "location": {
+      "address": "Avenida Juiz de Fora, 660",
+      "postalCode": "74703020",
+      "city": "Goiânia",
+      "countryCode": "BR",
+      "region": "Goiás"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "lucas-de-assis-rosa-861193a8",
+        "url": "https://www.linkedin.com/in/lucas-de-assis-rosa-861193a8/"
+      },
+      {
+        "network": "GitHub",
+        "username": "lucasassisrosa",
+        "url": "https://github.com/lucasassisrosa"
+      },
+      {
+        "network": "GitHub",
+        "username": "lucasdeassis",
+        "url": "https://github.com/lucasdeassis"
+      },
+      {
+        "network": "Twitter",
+        "username": "lucasdeassisr",
+        "url": "https://twitter.com/lucasdeassisr"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Telnyx",
+      "location": "Goiânia, BR",
+      "description": "Modern US Licensed Carrier Company",
+      "position": "Frontend Software Engineer",
+      "url": "https://telnyx.com/",
+      "startDate": "2019-04-08",
+      "summary": "Software Engineer focused on Frontend. Contributing to a variety of projects using Javascript, React, Redux, Angular, and CSS/SCSS, creating custom visual components and solutions for a range of projects including public-facing and internal tools. Actively contributing to evolve and maintain UI design systems, creating an adaptive and scalable stack.",
+      "highlights": [
+        "Ahead of a major revamp, developing an auto-generated mechanism for API Examples",
+        "Improved bug tracking and error reporting using bugsnag and slack with prometheus alerts for the Public API documentation website",
+        "Developed and released the first version of the Telnyx Node SDK with high test coverage",
+        "Improved deployment pipeline for frontend projects through docker multi-step layer and monorepo deps caching",
+        "Worked telnyx.com website server rewrite for performance, improving image optimization, integrating with the frontend monorepo shared libraries and improving deploy pipeline caching",
+        "Worked on migrating from AngularJS and Angular to React in the Mission Control Portal project, maintaining feature parity, unit testing coverage and adding e2e specs",
+        "Onboarded several new frontend developers from different tech and culture backgrounds into the company and frontend projects. Updated documentation and improved the onboarding process"
+      ]
+    },
+    {
+      "company": "Codeminer42",
+      "location": "Goiânia, BR",
+      "description": "Software Development Boutique",
+      "position": "Frontend Software Engineer",
+      "url": "https://www.codeminer42.com/",
+      "startDate": "2018-02-01",
+      "endDate": "2019-04-01",
+      "summary": "Software Developer Consultant focused on Frontend Development. Worked with Javascript React and SCSS, along with Ruby on Rails. Contributed to Open Source Projects.",
+      "highlights": [
+        "Contributed to Error Tools fixes and Frameworks docs",
+        "Working on a partial-remote team basis, along with the Bio Ritmo Microgyms",
+        "Created interfaces along with a high test coverage. Either using Jest or Mocha + Chai, Along with Enzyme & Sinon/React Testing Library techs were used and tailored to the project needs",
+        "Developed NodeJS Restful APIs for company internal projects",
+        "Concepted, planned, developed and presented a React GraphQL Client project using Apollo Client and React Apollo for BioRitmo to use on gym totens",
+        "Worked with Server Side Rendering in Rails, exploring pre-rendering with SEO and Performance optimization"
+      ]
+    },
+    {
+      "company": "TOTVS S.A.",
+      "location": "Goiânia, BR",
+      "description": "Software Company Leader in Brazilian ERP Market",
+      "position": "Software Engineer",
+      "url": "https://www.codeminer42.com/",
+      "startDate": "2016-10-01",
+      "endDate": "2017-12-01",
+      "summary": "Worked on the Engineering and Framework team which focused on high quality software development and scaffolding development using the best practices for a complex large scale product.",
+      "highlights": [
+        "Engineering and Framework Team Member, developing WinThor Anywhere (WTA), a large-scale microservices-oriented web platform for an ERP solution, creating reference code base",
+        "Working on a partial-remote team basis, along with the Bio Ritmo Microgyms",
+        "Developed the Java back-end platform core and Restful APIs, on the top of Apache Karaf, in a OSGi Environment",
+        "Used technologies like  Spring, Maven, JDBC, JUnit, Mockito, Shiro and Jackson",
+        "Developed front-end projects in AngularJS and Angular 2+, on top of the TOTVS HTML Framework (THF), with CSS3",
+        "Started a micro-services structure with a build and deploy process (gulp, bower) for each project inside the WinThor Anywhere",
+        "Conducted in-company training on Java, AngularJS and THF, Spring and OSGi features",
+        "Created WTA reference code base, technical and software product documentation",
+        "Developed features and deployed mobile Android and iOS Apps using Java and Swift"
+      ]
+    },
+    {
+      "company": "Illinois Institute of Technology",
+      "location": "Chicago, US",
+      "position": "Software Security Researcher",
+      "url": "https://www.iit.edu/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Researched and proved a system to hijack and insert data into an iSCSI stream.",
+      "highlights": [
+        "Created a Python CLI tool under the iSCSI Packet Injection Research Project - https://github.com/illinoistech-itm/pykkon"
+      ]
+    },
+    {
+      "company": "Milwaukee School of Engineering - Plexus",
+      "location": "Milwaukee, US",
+      "position": "Software Engineering Laboratory Intern",
+      "url": "https://www.msoe.edu/",
+      "startDate": "2015-11-01",
+      "endDate": "2016-06-01",
+      "summary": "Developed a Jira plugin in Javascript and in Java, based on the Atlassian Jira SDK and Jira Plugins2 API. The plugin goal was to generate Sprint velocity reports using the c3.js library."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Federal University of Goiás",
+      "url": "https://www.ufg.br/",
+      "area": "Software Engineering",
+      "studyType": "B.S.",
+      "startDate": "2013-03-01",
+      "endDate": "2017-12-01",
+      "score": "3.7"
+    },
+    {
+      "institution": "Milwaukee School of Engineering",
+      "url": "https://www.msoe.edu/",
+      "area": "Software Engineering - Mobility Program",
+      "studyType": "B.S.",
+      "startDate": "2015-08-01",
+      "endDate": "2016-08-01",
+      "score": "3.7",
+      "courses": [
+        "Developing Secure Software",
+        "Distributed Cloud Computing",
+        "Software Development Laboratory",
+        "Mobile Application Development"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Strong",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Javascript",
+        "Caching",
+        "Profiling",
+        "Performance",
+        "Debugging",
+        "React",
+        "Angular",
+        "Redux"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Strong",
+      "keywords": [
+        "Frontend",
+        "Unit",
+        "E2E",
+        "Jest",
+        "Karma",
+        "RTL",
+        "Enzyme",
+        "Mocking",
+        "API"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Security",
+      "keywords": [
+        "Web",
+        "Frontend",
+        "Dependencies"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "Bundling",
+        "Performance",
+        "Profiling"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
