@@ -45,12 +45,12 @@
       "position": "Senior Frontend Software Engineer",
       "url": "https://telnyx.com/",
       "startDate": "2021-11",
-      "summary": "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Unit and E2E Testing and Accessibility leveraging",
+      "summary": "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Unit and E2E Testing and Accessibility",
       "highlights": [
         "Performed analysis and study over website assets and components, creating live documents and presentations over short, mid and long-term Performance Improvements and Focus Areas",
         "Improved website SEO Score through Internal Proxy and CDN configurations on assets headers and allow-list",
         "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Prevented Docker image vulnerabilities and 3rd party integrations credentials exposure",
-        "Created a framework for End-to-End (E2E) testing, generating Metrics and Alerts based on page sections health and load time across multiple browsers",
+        "Created a framework for End-to-End (E2E) testing, generating Metrics and Alerts based on page sections health and load time across multiple browsers through accessible (a11y) selectors",
         "Migrated several projects deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the build-step time in 50%"
       ]
     },
