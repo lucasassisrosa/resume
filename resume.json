@@ -6,7 +6,7 @@
     "picture": "https://ca.slack-edge.com/T033NA4C3-UHBRPGC7Q-25738d2b3f0d-512",
     "email": "lucasassis413@gmail.com",
     "phone": "+55 (62) 98225-2109",
-    "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 5+ years of experience, specially in frontend development with different tools and frameworks like JQuery, Angular and React. I'm very good at developing high quality solutions in fast-paced environments. My dream is to impact millions!",
+    "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 6+ years of professional experience, specially in frontend development and improvement. I worked for several years with frameworks like Angular, JQuery, React and tools like Webpack, SCSS, Babel and more. React developer. I'm very good at developing high quality solutions in fast-paced environments. My dream is to impact billions!",
     "location": {
       "address": "Avenida Juiz de Fora, 660",
       "postalCode": "74703020",
@@ -42,11 +42,33 @@
       "company": "Telnyx",
       "location": "Remote",
       "description": "Modern US Licensed Carrier Company",
+      "position": "Senior Frontend Software Engineer",
+      "url": "https://telnyx.com/",
+      "startDate": "2021-11",
+      "summary": "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Unit and E2E Testing and Accessibility leveraging",
+      "highlights": [
+        "Performed analysis and study over website assets and components, creating live documents and presentations over short, mid and long-term Performance Improvements and Focus Areas",
+        "Improved website SEO Score through Internal Proxy and CDN configurations on assets headers and allow-list",
+        "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Prevented Docker image vulnerabilities and 3rd party integrations credentials exposure",
+        "Created a framework for End-to-End (E2E) testing, generating Metrics and Alerts based on page sections health and load time across multiple browsers",
+        "Migrated several projects deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the build-step time in 50%"
+      ]
+    },
+    {
+      "company": "Telnyx",
+      "location": "Remote",
+      "description": "Modern US Licensed Carrier Company",
       "position": "Frontend Software Engineer",
       "url": "https://telnyx.com/",
       "startDate": "2019-04",
+      "endDate": "2021-10",
       "summary": "Software Engineer focused on Frontend. Contributing and Maintaining to a variety of projects using Javascript, React, Redux, Angular, and CSS/SCSS, with custom components, patterns, and styles.",
       "highlights": [
+        "Improved website SEO Score through Internal Proxy and CDN configurations on assets headers and allow-list",
+        "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Prevented Docker image vulnerabilities and 3rd party integrations credentials exposure",
+        "Created a framework for End-to-End (E2E) testing, generating Metrics and Alerts based on page sections health and load time across multiple browsers",
+        "Migrated several projects deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the build-step time in 50%",
+        "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Testing (Unit and E2E testing with a11y tagging)",
         "Ahead of a major revamp, developing a multi-language code examples generation mechanism based on OpenAPI Specs",
         "Improved bug tracking and error reporting using bugsnag and slack with prometheus alerts for the Public API documentation website",
         "Developed and released the first open-source version of the Telnyx Node SDK with high test coverage",
@@ -175,11 +197,7 @@
   "interests": [
     {
       "name": "Security",
-      "keywords": [
-        "Vulnerabilities",
-        "Dependencies",
-        "Tools & Frameworks"
-      ]
+      "keywords": ["Vulnerabilities", "Dependencies", "Tools & Frameworks"]
     },
     {
       "name": "Performance",
@@ -189,6 +207,15 @@
         "Data Loading",
         "Content Selection",
         "Parallelism"
+      ]
+    },
+    {
+      "name": "Infra",
+      "keywords": [
+        "Build improvement",
+        "Package and Dependencies Management",
+        "Caching",
+        "Compiling Tools"
       ]
     }
   ],
