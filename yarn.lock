@@ -762,13 +762,6 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
   integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
 
-deep-aplus@^1.0.2:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/deep-aplus/-/deep-aplus-1.0.4.tgz#e1ec4c10a00b5046b59e0ddd0519d101ae315e8f"
-  integrity sha1-4exMEKALUEa1ng3dBRnRAa4xXo8=
-  dependencies:
-    lodash.isplainobject "^4.0.6"
-
 define-properties@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/define-properties/-/define-properties-1.1.3.tgz#cf88da6cbee26fe6db7094f61d870cbd84cee9f1"
@@ -1288,14 +1281,6 @@ handlebars-wax@^4.0.0:
     object-assign "^4.1.0"
     require-glob "^3.2.0"
 
-handlebars-wax@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/handlebars-wax/-/handlebars-wax-5.1.1.tgz#43198019fa5ae3d291aa8a319c2afb4d75edb683"
-  integrity sha1-QxmAGfpa49KRqooxnCr7TXXttoM=
-  dependencies:
-    object-assign "^4.1.1"
-    require-glob "^3.2.0"
-
 handlebars@1.x:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-1.3.0.tgz#9e9b130a93e389491322d975cf3ec1818c37ce34"
@@ -1464,13 +1449,6 @@ ieee754@^1.1.13:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.2.1.tgz#8eb7a10a63fff25d15a57b001586d177d1b0d352"
   integrity sha512-dcyqhDvX1C46lXZcVqCpK+FtMRQVdIMN6/Df5js2zouUsqG7I6sFxitIC+7KYK29KdXOLHdu9zL4sFnoVQnqaA==
-
-image-to-base64@^2.1.1:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/image-to-base64/-/image-to-base64-2.2.0.tgz#743039f59dee15a5953a621ea8beeacbc487f99d"
-  integrity sha512-Z+aMwm/91UOQqHhrz7Upre2ytKhWejZlWV/JxUTD1sT7GWWKFDJUEV5scVQKnkzSgPHFuQBUEWcanO+ma0PSVw==
-  dependencies:
-    node-fetch "^2.6.0"
 
 immutable@^3:
   version "3.8.2"
@@ -1903,18 +1881,6 @@ jsonresume-theme-material@^1.3.1:
     lodash "^4.17.15"
     mustache "~2.1.3"
 
-jsonresume-theme-mocha-responsive@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/jsonresume-theme-mocha-responsive/-/jsonresume-theme-mocha-responsive-1.1.1.tgz#ff5cffeb1399de64bc92e0c216bc2dd328489b51"
-  integrity sha512-WNvBM1QUWsqSs8HrqFQRggPUEORfZkIWOL52VBBmUEnFFS9SVHfnMXRQh5yoHyHqZE4YV7SfeP6HCQwiUtgtbA==
-  dependencies:
-    address-format "0.0.3"
-    handlebars "^4.7.6"
-    handlebars-wax "^5.0.0"
-    image-to-base64 "^2.1.1"
-    marked "^0.8.2"
-    promised-handlebars "^2.0.1"
-
 kind-of@^3.0.2, kind-of@^3.0.3, kind-of@^3.2.0:
   version "3.2.2"
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-3.2.2.tgz#31ea21a734bab9bbb0f32466d893aea51e4a3c64"
@@ -1981,11 +1947,6 @@ lodash.isfinite@^3.3.2:
   resolved "https://registry.yarnpkg.com/lodash.isfinite/-/lodash.isfinite-3.3.2.tgz#fb89b65a9a80281833f0b7478b3a5104f898ebb3"
   integrity sha1-+4m2WpqAKBgz8LdHizpRBPiY67M=
 
-lodash.isplainobject@^4.0.6:
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/lodash.isplainobject/-/lodash.isplainobject-4.0.6.tgz#7c526a52d89b45c45cc690b88163be0497f550cb"
-  integrity sha1-fFJqUtibRcRcxpC4gWO+BJf1UMs=
-
 lodash@^4.17.10, lodash@^4.17.15:
   version "4.17.21"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
@@ -2009,11 +1970,6 @@ map-visit@^1.0.0:
   integrity sha1-7Nyo8TFE5mDxtb1B8S80edmN+48=
   dependencies:
     object-visit "^1.0.0"
-
-marked@^0.8.2:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.8.2.tgz#4faad28d26ede351a7a1aaa5fec67915c869e355"
-  integrity sha512-EGwzEeCcLniFX51DhTpmTom+dSA/MG/OBUDjnWtHbEnjAH180VzUeAw+oE4+Zv+CoYBWyRlYOTR0N8SO9R1PVw==
 
 methods@^1.1.2:
   version "1.1.2"
@@ -2164,7 +2120,7 @@ neo-async@^2.6.0:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-node-fetch@^2.6.0, node-fetch@^2.6.1:
+node-fetch@^2.6.1:
   version "2.6.5"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.5.tgz#42735537d7f080a7e5f78b6c549b7146be1742fd"
   integrity sha512-mmlIVHJEu5rnIxgEgez6b9GgWXbkZj5YZ7fx+2r94a2E+Uirsp6HsPTPlomfdHtpt/B0cdKviwkoaM6pyvUOpQ==
@@ -2184,7 +2140,7 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==
 
-object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
+object-assign@^4.0.1, object-assign@^4.1.0:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
@@ -2444,13 +2400,6 @@ promise-polyfill@^1.1.6:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/promise-polyfill/-/promise-polyfill-1.1.6.tgz#cd04eff46f5c95c3a7d045591d79b5e3e01f12d7"
   integrity sha1-zQTv9G9clcOn0EVZHXm14+AfEtc=
-
-promised-handlebars@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/promised-handlebars/-/promised-handlebars-2.0.1.tgz#a662a4278895b4c13f815ecf223691ac3ca7fdca"
-  integrity sha1-pmKkJ4iVtME/gV7PIjaRrDyn/co=
-  dependencies:
-    deep-aplus "^1.0.2"
 
 proxy-from-env@^1.0.0:
   version "1.1.0"
