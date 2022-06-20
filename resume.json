@@ -8,11 +8,11 @@
     "phone": "+55 (62) 98225-2109",
     "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 6+ years of professional experience, specially in frontend development and improvement. I worked for several years with frameworks like Angular, JQuery, React and tools like Webpack, SCSS, Babel and more. React developer. I'm very good at developing high quality solutions in fast-paced environments. My dream is to impact billions!",
     "location": {
-      "address": "Avenida Juiz de Fora, 660",
-      "postalCode": "74703020",
+      "address": "Av. Portugal, 1148, C 2501",
+      "postalCode": "74150030",
       "city": "Goiânia",
       "countryCode": "BR",
-      "region": "Goiás"
+      "region": "GO"
     },
     "profiles": [
       {
@@ -40,8 +40,8 @@
   "work": [
     {
       "company": "Telnyx",
-      "location": "Remote",
-      "description": "Modern US Licensed Carrier Company",
+      "location": "Brazil (Remote)",
+      "description": "Modern United States Licensed Carrier Company",
       "position": "Senior Frontend Software Engineer",
       "url": "https://telnyx.com/",
       "startDate": "2021-11",
@@ -56,8 +56,8 @@
     },
     {
       "company": "Telnyx",
-      "location": "Remote",
-      "description": "Modern US Licensed Carrier Company",
+      "location": "Brazil (Remote)",
+      "description": "Modern United States Licensed Carrier Company",
       "position": "Frontend Software Engineer",
       "url": "https://telnyx.com/",
       "startDate": "2019-04",
@@ -81,7 +81,7 @@
     },
     {
       "company": "Codeminer42",
-      "location": "Goiânia, BR",
+      "location": "Goiânia, GO, Brazil",
       "description": "Software Development Boutique",
       "position": "Frontend Software Engineer",
       "url": "https://www.codeminer42.com/",
@@ -99,7 +99,7 @@
     },
     {
       "company": "TOTVS S.A.",
-      "location": "Goiânia, BR",
+      "location": "Goiânia, GO, Brazil",
       "description": "Software Company Leader in Brazilian ERP Market",
       "position": "Software Engineer",
       "url": "https://www.codeminer42.com/",
@@ -117,7 +117,7 @@
     },
     {
       "company": "Illinois Institute of Technology",
-      "location": "Chicago, US",
+      "location": "Chicago, IL, United States",
       "position": "Software Security Researcher",
       "url": "https://www.iit.edu/",
       "startDate": "2016-05",
@@ -130,7 +130,7 @@
     },
     {
       "company": "Milwaukee School of Engineering - Plexus",
-      "location": "Milwaukee, US",
+      "location": "Milwaukee, WI, United States",
       "position": "Software Engineering Laboratory Intern",
       "url": "https://www.msoe.edu/",
       "startDate": "2015-11",
@@ -220,8 +220,8 @@
     }
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2021-10-20T20:00:00"
+    "canonical": "https://raw.githubusercontent.com/lucasassisrosa/resume/main/resume.json",
+    "version": "v1.0.1",
+    "lastModified": "2022-06-20T19:54:20.107Z"
   }
 }
