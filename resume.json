@@ -6,7 +6,7 @@
     "picture": "https://ca.slack-edge.com/T033NA4C3-UHBRPGC7Q-25738d2b3f0d-512",
     "email": "lucasassis413@gmail.com",
     "phone": "+55 (62) 98225-2109",
-    "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 6+ years of professional experience, specially in frontend development and improvement. I worked for several years with frameworks like Angular, JQuery, React and tools like Webpack, SCSS, Babel and more. React developer. I'm very good at developing high quality solutions in fast-paced environments. My dream is to impact billions!",
+    "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 9+ years of professional experience, 6+ in Frontend. I worked for 3+ years with UI Frameworks like Angular.js, Angular, JQuery, SCSS, Babel and more. I'm now specialized in React and the modern ecosystem around it: Next.js, Webpack, Server-Side Rendering (SSR) with modular CSS and JS, Storybook and Testing Library. My highlights are continuous high quality deliveries in fast-paced environments.",
     "location": {
       "address": "Av. Portugal, 1148, C 2501",
       "postalCode": "74150030",
@@ -26,14 +26,14 @@
         "url": "https://github.com/lucasassisrosa"
       },
       {
-        "network": "GitHub",
-        "username": "lucasdeassis",
-        "url": "https://github.com/lucasdeassis"
-      },
-      {
         "network": "Twitter",
         "username": "lucasdeassisr",
         "url": "https://twitter.com/lucasdeassisr"
+      },
+      {
+        "network": "Lattes",
+        "username": "ROSA, L. A. / DE ASSIS, LUCAS",
+        "url": "https://lattes.cnpq.br/4492253824885642"
       }
     ]
   },
@@ -47,10 +47,15 @@
       "startDate": "2021-11",
       "summary": "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Unit and E2E Testing and Accessibility.",
       "highlights": [
+        "Led and designed the archicteture, validated with stakeholders and built the Telnyx Developer Docs project. Shared knowledge and best practices with the team, improving the final developer docs website performance and SEO",
+        "Conducted the website rebranding and rebuild over a fresh-new platform (Next.js, Storybook and CSS). Released project in multiple feature-ready iterations with constant design feedback and improvements",
+        "Executed Performance Improvements over the new platform, optimizing Lighthouse scores on Largest Containtful Paint (LCP) in 50% and Time to First Byte (TTFB) in 70% over a quarter",
         "Performed analysis and study over website assets and components, creating live documents and presentations over short, mid and long-term Performance Improvements and Focus Areas",
         "Improved website SEO Score through Internal Proxy and CDN configurations on assets headers and allow-list",
-        "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Prevented Docker image vulnerabilities and 3rd party integrations credentials exposure",
-        "Created a framework for End-to-End (E2E) testing, generating Metrics and Alerts based on page sections health and load time across multiple browsers through accessible (a11y) selectors",
+        "Conducted engineering 1-on-1s with team members, including mid-senior level engineers, to discuss career growth, performance, and feedback",
+        "Implemented buildtime, infraestructure and deployment automations, improving release time and reducing human error",
+        "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Improved software security, by preventing Docker image vulnerabilities and 3rd party integrations credentials exposure",
+        "Created a framework for End-to-End (E2E) testing, mapping critical user flows, generating Metrics and Alerts based on page sections health and load time across multiple browsers through accessible (a11y) selectors",
         "Migrated several projects deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the build-step time in 50%"
       ]
     },
@@ -169,14 +174,14 @@
       "name": "Frontend",
       "level": "Strong",
       "keywords": [
-        "React",
+        "Javascript",
         "HTML",
         "CSS",
-        "Javascript",
-        "Data Handling",
+        "React",
         "Functional Programming",
+        "Data Handling",
         "Testing",
-        "Auth"
+        "Build Tools"
       ]
     }
   ],
@@ -197,25 +202,32 @@
   "interests": [
     {
       "name": "Security",
-      "keywords": ["Vulnerabilities", "Dependencies", "Tools & Frameworks"]
+      "keywords": [
+        "Vulnerabilities",
+        "3rd-party Dependencies",
+        "Tools & Frameworks"
+      ]
     },
     {
       "name": "Performance",
       "keywords": [
         "Bundling",
         "Profiling",
-        "Data Loading",
-        "Content Selection",
-        "Parallelism"
+        "Eager and Lazy Loading",
+        "Images and Fonts Optimization",
+        "Prerendering"
       ]
     },
     {
       "name": "Infra",
       "keywords": [
-        "Build improvement",
+        "Build Improvements",
+        "Pipeline Putomation",
         "Package and Dependencies Management",
         "Caching",
-        "Compiling Tools"
+        "Compiling Tools",
+        "CDNs and Proxies",
+        "Content Management Systems (CMS)"
       ]
     }
   ],
