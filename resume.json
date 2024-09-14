@@ -2,13 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Lucas de Assis Rosa",
-    "label": "Software Engineer",
-    "picture": "https://ca.slack-edge.com/T033NA4C3-UHBRPGC7Q-25738d2b3f0d-512",
+    "label": "Senior Software Engineer",
+    "picture": "https://avatars.githubusercontent.com/u/49399224",
     "email": "lucasassis413@gmail.com",
     "phone": "+55 (62) 98225-2109",
-    "summary": "I'm Lucas (he/him/his), from Brazil. B.S. Software Engineer with 9+ years of professional experience, 6+ in Frontend. I worked for 3+ years with UI Frameworks like Angular.js, Angular, JQuery, SCSS, Babel and more. I'm now specialized in React and the modern ecosystem around it: Next.js, Webpack, Server-Side Rendering (SSR) with modular CSS and JS, Storybook and Testing Library. My highlights are continuous high quality deliveries in fast-paced environments.",
+    "summary": "I'm Lucas Rosa (he/him/his), from Brazil. B.S. Software Engineer with 9+ years of professional experience, 6+ in Frontend. I work with React and the modern ecosystem around it: Next.js, Webpack, Server-Side Rendering (SSR) with modular CSS and JS, Storybook, Unit testing with Testing Library, e2e Testing with Playwright, Design systems, tokens, CSS variables, animations and more.",
     "location": {
-      "address": "Av. Portugal, 1148, C 2501",
       "postalCode": "74150030",
       "city": "Goiânia",
       "countryCode": "BR",
@@ -18,22 +17,12 @@
       {
         "network": "LinkedIn",
         "username": "lucas-de-assis-rosa-861193a8",
-        "url": "https://www.linkedin.com/in/lucas-de-assis-rosa-861193a8/"
+        "url": "https://www.linkedin.com/in/lucas-de-assis-rosa-861193a8"
       },
       {
         "network": "GitHub",
         "username": "lucasassisrosa",
         "url": "https://github.com/lucasassisrosa"
-      },
-      {
-        "network": "Twitter",
-        "username": "lucasdeassisr",
-        "url": "https://twitter.com/lucasdeassisr"
-      },
-      {
-        "network": "Lattes",
-        "username": "ROSA, L. A. / DE ASSIS, LUCAS",
-        "url": "https://lattes.cnpq.br/4492253824885642"
       }
     ]
   },
@@ -42,46 +31,45 @@
       "company": "Telnyx",
       "location": "Brazil (Remote)",
       "description": "Modern United States Licensed Carrier Company",
-      "position": "Senior Frontend Software Engineer",
+      "position": "Senior Software Engineer - Frontend",
       "url": "https://telnyx.com/",
       "startDate": "2021-11",
       "summary": "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Unit and E2E Testing and Accessibility.",
       "highlights": [
         "Led and designed the archicteture, validated with stakeholders and built the Telnyx Developer Docs project. Shared knowledge and best practices with the team, improving the final developer docs website performance and SEO",
         "Conducted the website rebranding and rebuild over a fresh-new platform (Next.js, Storybook and CSS). Released project in multiple feature-ready iterations with constant design feedback and improvements",
-        "Executed Performance Improvements over the new platform, optimizing Lighthouse scores on Largest Containtful Paint (LCP) in 50% and Time to First Byte (TTFB) in 70% over a quarter",
-        "Performed analysis and study over website assets and components, creating live documents and presentations over short, mid and long-term Performance Improvements and Focus Areas",
-        "Improved website SEO Score through Internal Proxy and CDN configurations on assets headers and allow-list",
+        "Executed Performance Improvements over the new platform we put live, optimizing Lighthouse scores on Largest Containtful Paint (LCP) in 50% and Time to First Byte (TTFB) in 70% over a quarter",
+        "Performed analysis and study over website assets and components, creating live documents and presentations over short, mid and long-term Performance Improvements and Focus Areas, training the team and helping their skills in a quarter",
         "Conducted engineering 1-on-1s with team members, including mid-senior level engineers, to discuss career growth, performance, and feedback",
-        "Implemented buildtime, infraestructure and deployment automations, improving release time and reducing human error",
-        "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Improved software security, by preventing Docker image vulnerabilities and 3rd party integrations credentials exposure",
         "Created a framework for End-to-End (E2E) testing, mapping critical user flows, generating Metrics and Alerts based on page sections health and load time across multiple browsers through accessible (a11y) selectors",
-        "Migrated several projects deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the build-step time in 50%"
+        "Migrated several projects continuous deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the website build and release time in 50%",
+        "Led and developed the telnyx developer documentation website rebranding, coming up with a full open-source based solution based off React and Docusaurus, integrated with Telnyx OpenAPI specifications CI/CD pipeline",
+        "Created several interactive UI components for telnyx marketing campaigns. One of them a Telnyx Network interactive map, feeding from multiple product APIs, showcasing products features coverage per country and region",
+        "Conducted a CSS Framework update to a fully-supported streaming Server-Side Rendering (React 18 feature) CSS in JS library, enabling a Total Blocking Time (TTB) improvement by 65% in Lighthouse"
       ]
     },
     {
       "company": "Telnyx",
       "location": "Brazil (Remote)",
       "description": "Modern United States Licensed Carrier Company",
-      "position": "Frontend Software Engineer",
+      "position": "Software Engineer - Frontend",
       "url": "https://telnyx.com/",
       "startDate": "2019-04",
       "endDate": "2021-10",
       "summary": "Software Engineer focused on Frontend. Contributing and Maintaining to a variety of projects using Javascript, React, Redux, Angular, and CSS/SCSS, with custom components, patterns, and styles.",
       "highlights": [
-        "Improved website SEO Score through Internal Proxy and CDN configurations on assets headers and allow-list",
+        "Improved website SEO Score through reverse proxy and CDN configurations on assets headers and allow-list",
         "Migrated secret Enviroment Variables (envs) to a Vault-safe setup, with an internal Backend API. Prevented Docker image vulnerabilities and 3rd party integrations credentials exposure",
         "Created a framework for End-to-End (E2E) testing, generating Metrics and Alerts based on page sections health and load time across multiple browsers",
-        "Migrated several projects deployment and release pipeline from Tankers to Kubernetes. Improved pipeline caching through docker layers and build config, reducing the build-step time in 50%",
         "Undertook a role of tech leading, prioritized Product Stability and Continuous Delivery through updates on Caching (Server and Docker), Logging aggregation, Testing (Unit and E2E testing with a11y tagging)",
         "Ahead of a major revamp, developing a multi-language code examples generation mechanism based on OpenAPI Specs",
         "Improved bug tracking and error reporting using bugsnag and slack with prometheus alerts for the Public API documentation website",
-        "Developed and released the first open-source version of the Telnyx Node SDK with high test coverage",
-        "Improved and migrated the deployment pipeline for frontend projects through docker multi-step layer and monorepo deps caching",
-        "Rewrote telnyx.com website server for performance, improving image optimization, integrating with the frontend monorepo shared libraries and improving deploy pipeline caching",
+        "Developed and released the first open-source version of the Telnyx Node SDK with a high test coverage. The library was highly adopted, becoming the most popular Telnyx SDK, with thousands of downloads per week and a growing number of interactions in Github",
+        "Improved and migrated the deployment pipeline for frontend projects through monorepo dependencies caching (yarn workspaces)",
+        "Rewrote telnyx.com backend server for performance, improving image optimization, integrating with the frontend monorepo shared libraries and improving deploy pipeline caching",
         "Migrated from AngularJS and Angular to React, reorganing data fetching, parsing and usage, improving UI/UX, maintaining feature parity, unit testing coverage and adding e2e specs",
         "Concepted, presented and developed a Canary Release process for the main frontend project",
-        "Onboarded several new frontend developers from different tech and culture backgrounds into the company and frontend projects. Updated documentation, defined styleguide and improved the onboarding process"
+        "Onboarded several new frontend developers from different tech and culture backgrounds into the company and frontend projects. Updated documentation, defined code styleguide and improved the onboarding process"
       ]
     },
     {
@@ -160,13 +148,7 @@
       "studyType": "B.S.",
       "startDate": "2015-08",
       "endDate": "2016-08",
-      "score": "3.7",
-      "courses": [
-        "Developing Secure Software",
-        "Distributed Cloud Computing",
-        "Software Development Laboratory",
-        "Mobile Application Development"
-      ]
+      "score": "3.7"
     }
   ],
   "skills": [
