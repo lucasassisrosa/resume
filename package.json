@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "resume serve",
     "export": "resume export",
-    "export:pdf": "resume export --format pdf resume-$(date +'%d-%m-%Y').pdf",
+    "export:pdf": "resume export --theme stackoverflow --format pdf resume-$(date +'%d-%m-%Y').pdf",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -15,9 +15,7 @@
   "author": "lucas",
   "license": "ISC",
   "dependencies": {
-    "jsonresume-theme-caffeine": "^1.2.3",
-    "jsonresume-theme-flat": "^0.3.7",
-    "jsonresume-theme-material": "^1.3.1",
+    "jsonresume-theme-stackoverflow": "^2.1.0",
     "resume-cli": "^3.0.8"
   },
   "engines": {
