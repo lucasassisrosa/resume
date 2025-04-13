@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Lucas de Assis Rosa",
-    "label": "Senior Software Engineer",
+    "label": "Senior Software Engineer - Web Development, Frontend",
     "picture": "https://avatars.githubusercontent.com/u/49399224",
-    "email": "lucasassis413@gmail.com",
+    "email": "rosa@lucas.limited",
     "phone": "+55 (62) 98225-2109",
-    "summary": "I'm Lucas Rosa (he/him/his), from Brazil. B.S. Software Engineer with 9+ years of professional experience, 6+ in Frontend. I work with React and the modern ecosystem around it: Next.js, Webpack, Server-Side Rendering (SSR) with modular CSS and JS, Storybook, Unit testing with Testing Library, e2e Testing with Playwright, Design systems, tokens, CSS variables, animations and more.",
+    "summary": "I'm Lucas Rosa (he/him/his), from Brazil. B.S. Software Engineer with 10+ years of professional experience. 7+ in Web Development. I work mainly with Frontend React and the modern ecosystem around it: Next.js, Webpack, Server-Side Rendering (SSR), CSS Modules, Tailwind and Typescript. I have plenty of experience with tools like Webpack, Redux, React Hooks, Storybook, Unit testing with Testing Library, End-to-End Testing with Playwright, Design tokens, animations and more.",
     "location": {
       "postalCode": "74150030",
       "city": "Goiânia",
@@ -95,7 +95,7 @@
       "location": "Goiânia, GO, Brazil",
       "description": "Software Company Leader in Brazilian ERP Market",
       "position": "Software Engineer",
-      "url": "https://www.codeminer42.com/",
+      "url": "https://www.totvs.com/",
       "startDate": "2016-10",
       "endDate": "2017-12",
       "summary": "PC Sistemas Engineering and Framework team member, focused on high quality software development and documentation for a complex large scale product.",
@@ -159,11 +159,14 @@
         "Javascript",
         "HTML",
         "CSS",
+        "Typescript",
         "React",
-        "Functional Programming",
-        "Data Handling",
-        "Testing",
-        "Build Tools"
+        "Functional programming",
+        "Web performance",
+        "Web animations",
+        "E2E testing",
+        "Unit testing",
+        "Webpack"
       ]
     }
   ],
